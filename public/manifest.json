@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CRUD MUI 5",
+  "name": "Create React App SampleCRUD utilizando React, MUI5 e API fake com JSON Server",
   "icons": [
     {
       "src": "favicon.ico",
